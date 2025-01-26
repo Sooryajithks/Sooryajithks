@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Sooryajithks
 - 👀 Interested in App and Software dev.
 - Love to write code.
-- 🌱 Currently learning Javascript.
+- 🌱 Languages I speak- python, JS, Fortran.
 - 💞️ Looking to collaborate on cool app ideas. 
-- 📫 How to reach me: kssooryajith@gmail.com
+- 📫 How to reach me: sooryajith238@gmail.com , kssooryajith@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: No fun fact, Life's no joke.
-- updates: Languages I speak- python, JS, Fortran.
+
 
 <!---
 Sooryajithks/Sooryajithks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
