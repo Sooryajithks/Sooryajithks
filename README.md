@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Sooryajithks
-- 👀 Interested in App and Software dev.
-- Love to write code.
+- 👀  Passionate on programming and dev.
 - 🌱 Languages I speak- python, JS, Fortran.
-- 💞️ Looking to collaborate on cool app ideas. 
 - 📫 How to reach me: sooryajith238@gmail.com , kssooryajith@gmail.com
-- 😄 Pronouns: He
 
 
 <!---
