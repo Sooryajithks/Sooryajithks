@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sooryajithks
-- 👀  Passionate on programming and dev.
-- 🌱 Languages I speak- python, JS, Fortran.
-- 📫 How to reach me: sooryajith238@gmail.com , kssooryajith@gmail.com
+- 👋 Hi, I’m Sooryajith Santhosh
+- 👀  Passionate in Data Analysis and Machine Learning
+- 📫 How to reach me: sooryajith.k.santhosh@gmail.com, kssooryajith@gmail.com
 
 
 <!---
