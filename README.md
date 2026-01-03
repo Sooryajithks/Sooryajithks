@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sooryajith Santhosh
-- 👀  Passionate in Data Analysis and Machine Learning
+- 👋 Hi, I’m Sonny Santhosh
+- 👀 Python programmer | Data Analysis | Web Development 
 - 📫 How to reach me: sooryajith.k.santhosh@gmail.com, kssooryajith@gmail.com
 
 
